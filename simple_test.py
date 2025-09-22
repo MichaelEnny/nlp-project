@@ -101,6 +101,8 @@ def main():
 
     print("\nTest completed successfully!")
     return 0
-
+'''main execution starts here
+    if __name__ == "__main__":
+        sys.exit(main())'''
 if __name__ == "__main__":
     main()
